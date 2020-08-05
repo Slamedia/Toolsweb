@@ -11,4 +11,18 @@ $ pkg install PHP
 
 $ pkg install git
 
-$ git clone 
+$ git clone https://github.com/YomingGITHUB/Toolsweb
+
+$ ls
+
+$ cd Toolsweb
+
+$ ls
+
+$ chmod +x rhawk.php
+
+$ ls
+
+$ php rhawk.php
+
+$ DONE👍
